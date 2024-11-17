@@ -169,7 +169,7 @@
         <div>
             <!-- <img class="ssn-logo" src="../images/ssn-logo.png" alt="ssn logo" /> -->
             <br>
-            <h1>Welcome Back, Jash Adalja! 👋</h1>
+            <h1>Welcome Back, Jay Pandya! 👋</h1>
         </div>
 
         <br>
