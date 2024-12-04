@@ -28,7 +28,7 @@ app.controller('dashboardController', ($scope, $http, $q) => {
         "VIII": 8
     };
 
-
+    
     $http.post('/getAccount', { digitalid: $scope.digitalid })
         .then(response => {
             $scope.student = response.data;
